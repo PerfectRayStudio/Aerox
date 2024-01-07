@@ -1,6 +1,7 @@
 <p align="center">
   <img src="docs/logo.png" />
 </p>
+
 # What Is Aerox?
 Aerox is an economic metaverse in the world of cryptocurrencies. It contains such projects as:
 
