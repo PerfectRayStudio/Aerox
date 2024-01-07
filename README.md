@@ -1,4 +1,4 @@
-![Logotype](./docs/wall.png)
+![Logotype](./docs/logo.png)
 # What Is Aerox?
 Aerox is an economic metaverse in the world of cryptocurrencies. It contains such projects as:
 
