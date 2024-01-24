@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-contract simpleToken {
+contract arx {
 
     uint256 totalSupply_; 
     string public constant name = "Aerox";
